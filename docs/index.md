@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Hawk Eye"
   text: "hawk eye"
-  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
